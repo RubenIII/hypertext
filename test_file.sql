@@ -11,3 +11,4 @@ AND     (
                 cl_ciudad = 'GUATEMALA'
             OR  cl_ciudad = 'XELAJU'
         )
+AND     cl_fecha_mod = GETDATE() - 1 -- Personas que modificaron sus datos ayer.
