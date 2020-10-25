@@ -9,5 +9,5 @@ WHERE   cl_fecha_creacion >= '01/01/2020'
 AND     cl_tipo = 'I' -- [I]ndividuales
 AND     (
                 cl_ciudad = 'GUATEMALA'
-            OR  cl_ciudad = 'PUERTO BARRIOS'
+            OR  cl_ciudad = 'XELAJU'
         )
