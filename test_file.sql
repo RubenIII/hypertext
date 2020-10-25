@@ -5,4 +5,5 @@
 -- Lista de Clientes
 SELECT  *
 FROM    dbo.tbl_cliente
-WHERE   cl_estado = 'V'
+WHERE   cl_fecha_creacion >= '01/01/2020'
+AND     cl_tipo = 'I' -- [I]ndividuales
