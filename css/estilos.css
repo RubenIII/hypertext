@@ -1,5 +1,6 @@
 body
 {
+    background-attachment: #1e1f24;
     color: #333;
     text-align: left;
     font-family: Arial;
@@ -18,12 +19,19 @@ body
 
 #cabecera
 {
-    background: #33A;
-    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.75);
+    background: #33A url("../imagenes/dragon.png") no-repeat center center;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     margin: 0;
     padding: 0.5em;
     font-weight: bold;
+    padding: 00.5em 0 0.5em 2em ;
+}
+
+#cabecer #logo
+{
+    width: 20px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline
@@ -40,5 +48,6 @@ body
 
 #post
 {
+    background-attachment: fixed;
     padding: 1em;
 }
