@@ -8,5 +8,7 @@ En este curso vemos principalmente:
 * Tener un verdadero enfoque por las buenas practicas.
 * Tips muy buenos.
 * Creado por un increible programador.
+* Incluye ejemplos wn Windows, Linux y Mac.
+* Disponible para todas las edades.
 
 Este es un ejercicio para aprender las funcionalidades del archivo .md y **tiene fines puramente didacticos**.
