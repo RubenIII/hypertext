@@ -7,5 +7,6 @@ En este curso vemos principalmente:
 * El flujo de trabajo de GitHub.
 * Tener un verdadero enfoque por las buenas practicas.
 * Tips muy buenos.
+* Creado por un increible programador.
 
 Este es un ejercicio para aprender las funcionalidades del archivo .md y **tiene fines puramente didacticos**.
